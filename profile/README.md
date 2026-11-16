@@ -1,6 +1,8 @@
-![Cloudless AI](https://gocloudless.ai/docs/img/logo-fleet-router-light.svg#gh-light-mode-only)![Cloudless AI](https://gocloudless.ai/docs/img/logo-fleet-router-dark-v2.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://gocloudless.ai/docs/img/concept-2-fleet-router-v2.svg" alt="Cloudless AI logo" width="128">
+</p>
 
-# Private AI inference on the devices you already own
+<h1 align="center">Cloudless AI</h1>
 
 **Turn employee laptops and desktops into a private, lower-cost inference layer.**
 
