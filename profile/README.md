@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://gocloudless.ai/docs/img/logo-fleet-router-light.svg" alt="Cloudless AI" width="360">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gocloudless.ai/docs/img/logo-fleet-router-dark-v2.svg">
+    <img src="https://gocloudless.ai/docs/img/logo-fleet-router-light.svg" alt="Cloudless AI" width="360">
+  </picture>
 </p>
 
 # Private AI inference on the devices you already own
