@@ -13,11 +13,13 @@ Cloudless AI routes AI requests to idle local compute first, keeping sensitive d
     <img src="https://img.shields.io/badge/Start%20for%20free-%E2%86%92-EA580C?style=for-the-badge" alt="Start for free">
   </a>
   &nbsp;&nbsp;
-  <a href="https://gocloudless.ai/blog/">Read the blog</a>
-  &nbsp;·&nbsp;
-  <a href="https://gocloudless.ai/docs/">Explore the docs</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/cloudless-ai/cloudless-ai">Explore the code</a>
+  <a href="https://gocloudless.ai/blog/">
+    <img src="https://img.shields.io/badge/Read%20the%20blog-%E2%86%92-334155?style=for-the-badge" alt="Read the blog">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gocloudless.ai/docs/">
+    <img src="https://img.shields.io/badge/Explore%20the%20docs-%E2%86%92-334155?style=for-the-badge" alt="Explore the docs">
+  </a>
 </p>
 
 ![Diagram showing an application request routed through Cloudless AI to an eligible local node, with optional cloud fallback.](https://gocloudless.ai/docs/img/cloudless-request-flow.svg)
